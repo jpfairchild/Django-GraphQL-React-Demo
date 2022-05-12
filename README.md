@@ -1,4 +1,4 @@
-# Django-GraphQL-React-Demo
+# Django-GraphQL-React
 
 Introduce how to use GraphQL to connect Django and React
 
