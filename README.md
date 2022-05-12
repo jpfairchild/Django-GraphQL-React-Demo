@@ -1,4 +1,6 @@
-# Django-GraphQL-React
+# Django-GraphQL-React-Demo
+
+God this is so cool, I plan to add some sample models and a base for a website with users, images, comments, and notifications. @ZoeLiao is a legend. :)
 
 Introduce how to use GraphQL to connect Django and React
 
